@@ -1,0 +1,27 @@
+form {
+
+    box-shadow: 5px 5px 8px 5px #888888;;
+    border-radius: 10%;
+    background-color: rgb(188, 255, 224);
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 1%;
+  }
+  
+  .form-group{
+    margin-top: 5%;
+    text-align: center;
+  }
+  
+  button{
+    margin-top: 5%;
+    margin-left: 40%;
+  }
+
+  p {
+      margin: auto;
+      margin-top: 20px;
+      text-align: center;
+  }
+

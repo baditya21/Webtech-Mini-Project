@@ -1,0 +1,11 @@
+form {
+
+    box-shadow: 5px 5px 8px 5px #888888;;
+    border-radius: 10%;
+    background-color: rgb(188, 245, 255);
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+    padding: 1%;
+    text-align: center;
+  }
